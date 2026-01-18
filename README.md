@@ -17,6 +17,10 @@ The dataset must be a CSV file containing:
 - Subject-wise columns in the format:
   - `<Subject Name>_Quiz`
   - `<Subject Name>_Mid Sem`
+ 
+Or
+
+**Just use the 'Dataset_Template.csv' file and fill your data in it.
 
 ## How It Works
 - You Load the dataset
